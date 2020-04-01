@@ -115,7 +115,6 @@ In de linkerkant ziet je alle eindapparaten die men kunt verbinden met ZigBee ne
 
 ## Bronnen
 
-About Us. (2018, 6 juli). Geraadpleegd 3 maart 2020, van [https://www.ZigBee.org/ZigBee-for-developers/about-us/](https://www.zigbee.org/ZigBee-for-developers/about-us/)
 
 Wat is Zigbee? Een korte introductie en uitleg | 50five.nl. (z.d.). Geraadpleegd 3 maart 2020, van [https://www.50five.nl/blog/wat-is-zigbee.html](https://www.50five.nl/blog/wat-is-zigbee.html)
 
